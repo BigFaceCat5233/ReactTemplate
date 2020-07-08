@@ -1,5 +1,6 @@
 # ReactTemplate
-手撸脚手架 第三方包导入时loader解析出错
+手撸脚手架
+目前还存在的问题：第三方包不能使用
 
 npm insatll
 
